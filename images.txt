@@ -10,3 +10,4 @@ nyanmisaka/jellyfin:latest
 zhaojun1998/zfile:latest
 n8nio/n8n:latest
 vaultwarden/server:latest
+xhofe/alist:latest
