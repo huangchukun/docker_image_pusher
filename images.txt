@@ -8,6 +8,6 @@ ubuntu/squid:latest
 nginx:latest
 nyanmisaka/jellyfin:latest
 zhaojun1998/zfile:latest
-n8nio/n8n:latest
+n8nio/n8n:1.45.1
 vaultwarden/server:latest
 xhofe/alist:latest
