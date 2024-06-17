@@ -11,3 +11,6 @@ zhaojun1998/zfile:latest
 n8nio/n8n:1.45.1
 vaultwarden/server:latest
 xhofe/alist:latest
+ghcr.io/evroon/bracket-frontend
+ghcr.io/evroon/bracket-backend
+postgres
