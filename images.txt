@@ -1,1 +1,1 @@
-baserow/baserow:1.26.1
+nocodb/nocodb:latest
