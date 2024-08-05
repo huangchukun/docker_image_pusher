@@ -1,1 +1,1 @@
-gristlabs/grist
+ghcr.io/zitadel/zitadel:latest
