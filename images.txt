@@ -1,1 +1,1 @@
-ghcr.io/zitadel/zitadel:latest
+quay.io/keycloak/keycloak:25.0.2
