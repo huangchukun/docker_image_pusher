@@ -1,1 +1,1 @@
-casbin/casdoor
+illasoft/illa-builder:latest
