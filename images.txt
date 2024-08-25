@@ -1,1 +1,1 @@
-illasoft/illa-builder:latest
+n8nio/n8n:1.55.3
