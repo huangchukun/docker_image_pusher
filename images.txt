@@ -1,1 +1,1 @@
-linuxserver/sonarr:latest
+vaultwarden/server:latest
