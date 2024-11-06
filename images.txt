@@ -1,5 +1,3 @@
-redash/redash:10.1.0.b50633
-redash/redash:preview
-redis:7-alpine
-redash/nginx:latest
-pgautoupgrade/pgautoupgrade:latest
+djfarrelly/maildev
+postgres:9.5-alpine
+redis:3-alpine
