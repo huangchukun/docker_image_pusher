@@ -1,3 +1,1 @@
-djfarrelly/maildev
-postgres:9.5-alpine
-redis:3-alpine
+docker.elastic.co/enterprise-search/elastic-connectors:8.15.0.0
