@@ -1,8 +1,2 @@
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
+n8nio/n8n:1.77.3
+vaultwarden/server:1.33.2
