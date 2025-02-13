@@ -1,8 +1,1 @@
-vaultwarden/server:1.32.2
-vaultwarden/server:1.32.3
-vaultwarden/server:1.32.4
-vaultwarden/server:1.32.5
-vaultwarden/server:1.32.6
-vaultwarden/server:1.32.7
-vaultwarden/server:1.33.1
-vaultwarden/server:1.33.0
+cooderl/wewe-rss-sqlite:v2.6.1
