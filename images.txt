@@ -1,1 +1,5 @@
-index.docker.io/appsmith/appsmith-ce
+tooljet/tooljet:ee-lts-latest
+postgres:13
+postgrest/postgrest:v12.2.0
+redis:6.2
+chromadb/chroma
