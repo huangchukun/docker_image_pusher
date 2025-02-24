@@ -1,6 +1,2 @@
-budibase/couchdb:v3.3.3-sqs-v2.1.1
-redis
-budibase/proxy
-minio/minio
-budibase/worker
-budibase/apps
+pgvector/pgvector:pg17
+ghcr.io/formbricks/formbricks:latest
