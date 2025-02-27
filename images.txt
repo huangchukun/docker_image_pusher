@@ -1,2 +1,5 @@
-pgvector/pgvector:pg17
-ghcr.io/formbricks/formbricks:latest
+tooljet/tooljet-ce:latest
+tooljet/tooljet:ee-lts-latest
+postgres:13
+postgrest/postgrest:v12.2.0
+redis:6.2
