@@ -1,1 +1,1 @@
-tooljet/tooljet-ce:ce-lts-latest
+postgrest/postgrest:v12.0.2
