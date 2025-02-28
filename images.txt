@@ -1,1 +1,1 @@
-zenko/cloudserver
+gaul/s3proxy
