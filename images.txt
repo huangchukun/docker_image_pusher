@@ -1,2 +1,1 @@
-chibisafe/chibisafe:latest
-chibisafe/chibisafe-server:latest
+chibisafe/chibisafe-server:v6.5.0
