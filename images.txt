@@ -1,1 +1,2 @@
- sugarjl/easypicker
+chibisafe/chibisafe:latest
+chibisafe/chibisafe-server:latest
