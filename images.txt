@@ -1,1 +1,14 @@
-chibisafe/chibisafe-server:v6.5.0
+n8nio/n8n:1.82.3
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.4-local
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.20
