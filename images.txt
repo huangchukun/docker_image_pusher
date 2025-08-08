@@ -1,2 +1,1 @@
-listmonk/listmonk:latest
-postgres:17-alpine
+vaultwarden/server:1.34.3
