@@ -1,1 +1,1 @@
-vaultwarden/server:1.34.3
+n8nio/n8n:1.107.3
