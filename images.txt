@@ -1,1 +1,1 @@
-ghcr.io/postalserver/postal:3.3.4
+vaultwarden/server:latest
