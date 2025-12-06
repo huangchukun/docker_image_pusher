@@ -1,8 +1,2 @@
-n8nio/n8n:1.122.5
-langgenius/dify-api:1.10.1-fix.1
-langgenius/dify-web:1.10.1-fix.1
-postgres:15-alpine
-nginx:latest
-langgenius/dify-plugin-daemon:0.4.1-local
-redis:6-alpine
-langgenius/dify-sandbox:0.2.12
+squid:latest
+semitechnologies/weaviate:1.27.0
