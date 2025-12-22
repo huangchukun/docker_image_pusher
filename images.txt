@@ -1,2 +1,9 @@
-langgenius/dify-api:1.10.1-fix.1
-langgenius/dify-web:1.10.1-fix.1
+langgenius/dify-web:1.11.1
+langgenius/dify-api:1.11.1
+postgres:15-alpine
+langgenius/dify-plugin-daemon:0.5.1-local
+nginx:latest
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+ubuntu/squid:latest
+semitechnologies/weaviate:1.27.0
