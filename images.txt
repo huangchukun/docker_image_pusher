@@ -1,1 +1,1 @@
-develop767/migu_video:latest
+n8nio/n8n:2.15.1
